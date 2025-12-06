@@ -1,4 +1,4 @@
-<h3>Progress Update (as of 05.12.2025)</h3>
+<h2>Progress Update (as of 05.12.2025)</h2>
 
 I already have prior knowledge of C++, Python, and Linux, and I went through these assigned videos to refresh and strengthen my understanding. 
 The concepts covered in the videos helped reinforce what I already knew and gave me an overall recap of the topics.
