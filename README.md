@@ -1,32 +1,51 @@
 <h2>Progress Update (as of 08.12.2025)</h2>
 
-**<h4>05.12.2025</h4>**
-Already having prior knowledge of C++, Python and Linux, I went through the assigned videos to refresh and strengthen my understanding. 
-The concepts covered in the videos helped reinforce what I already knew and gave me an overall recap of the topics.
+<h3>Progress Update – 05.12.2025</h3>
 
-**1) Programming Languages** 
-  a) Reviewed and refreshed core concepts in C++
-  b) Revisited key fundamentals and practices in Python
+<p>Already having prior knowledge of <strong>C++</strong>, <strong>Python</strong>, and <strong>Linux</strong>, I went through the assigned videos to refresh and strengthen my understanding. The concepts covered helped reinforce what I already knew and provided an overall recap.</p>
 
-**2) Development Environment** 
-  Strengthened my understanding of Visual Studio Code (VS Code)—its workflow, extensions, and usage
+<h4>1) Programming Languages</h4>
+<ul>
+  <li>Reviewed and refreshed core concepts in <strong>C++</strong></li>
+  <li>Revisited key fundamentals and practices in <strong>Python</strong></li>
+</ul>
 
-**3) Operating Systems**
-  Reinforced essential Linux commands and concepts
+<h4>2) Development Environment</h4>
+<ul>
+  <li>Strengthened understanding of <strong>Visual Studio Code (VS Code)</strong> — workflow, extensions, and general usage</li>
+</ul>
 
-**<h4>08.12.2025</h4>**
+<h4>3) Operating Systems</h4>
+<ul>
+  <li>Reinforced essential <strong>Linux</strong> commands and concepts</li>
+</ul>
 
-**1) Coding Styles of Google**
-  Gained insights on coding styles in C++
-  
-**2) Build & Debug Tools**
-  Learned about MakefilesExplored Valgrind
-  
-**3) Git & VS Code**
-  Understood Git integration within VS Code
+<hr>
 
-**4) Deep Learning**
-  Watched the introductory video on Deep Learning Basics
+<h3>Progress Update – 08.12.2025</h3>
 
-**5) Git Learning**
-  Started watching videos on Git fundamentals
+<h4>1) Coding Styles (Google Standards)</h4>
+<ul>
+  <li>Gained insights on <strong>C++ coding styles</strong></li>
+</ul>
+
+<h4>2) Build & Debug Tools</h4>
+<ul>
+  <li>Learned about <strong>Makefiles</strong></li>
+  <li>Explored <strong>Valgrind</strong></li>
+</ul>
+
+<h4>3) Git & VS Code</h4>
+<ul>
+  <li>Understood <strong>Git integration</strong> within VS Code</li>
+</ul>
+
+<h4>4) Deep Learning</h4>
+<ul>
+  <li>Watched the introductory video on <strong>Deep Learning Basics</strong></li>
+</ul>
+
+<h4>5) Git Learning</h4>
+<ul>
+  <li>Started watching videos on <strong>Git fundamentals</strong></li>
+</ul>
