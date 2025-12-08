@@ -49,3 +49,5 @@
 <ul>
   <li>Started watching videos on <strong>Git fundamentals</strong></li>
 </ul>
+<h4>Blocker Faced & Resolved – SSH Key Issue</h4>
+<p>Faced an issue cloning a GitHub repository due to missing SSH key authentication. Resolved it by generating a new SSH key and adding it to my GitHub account. After authentication, the repository cloned successfully.</p>
