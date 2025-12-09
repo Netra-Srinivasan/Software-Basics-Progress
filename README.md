@@ -57,3 +57,32 @@
 
 <h4>Blocker Faced & Resolved – SSH Key Issue</h4>
 <p>Faced an issue cloning a GitHub repository due to missing SSH key authentication. Resolved it by generating a new SSH key and adding it to my GitHub account. After authentication, the repository cloned successfully.</p>
+
+<hr>
+
+<h3>Progress Update – 09.12.2025</h3>
+
+<h4>1) Git Learning</h4>
+<ul>
+  <li>Deepened understanding of <strong>Git</strong> and its workflows.</li>
+</ul>
+
+<h4>2) Hands-on Assignment: SoundTouch & LibOpenShot</h4>
+<ul>
+  <li>Downloaded, compiled and executed <strong>SoundTouch</strong> and <strong>libopenshot.</strong></li>
+  <li>Modified the <strong>tempo and pitch</strong> of a test audio file using SoundTouch.</li>
+  <li>Successfully compiled <strong>libopenshot</strong> and <strong>libopenshot-audio.</strong></li>
+  <li>Scripted <strong>C++</strong> and <strong>Python</strong> codes to generate a video clip using a reference video as input.</li>
+</ul>
+
+<h4>3) Computer Architecture & Low-Level Concepts</h4>
+<ul>
+  <li>Explored modules on <strong>Instruction Set Architectures (ISA)</strong></li>
+  <li>Deepened understanding on <strong>ARM v x86</strong> and <strong>RISC-V</strong> Architecture.</li>
+  <li>Gained foundational insights into <strong>assembly language.</strong></li>
+</ul>
+
+<h4>Blocker Faced</h4>
+<ul>
+  <li>Faced issues to generate a demo video using Python bindings because several functions mentioned in the documentation were not available in the Python API.</li>
+  <li>While attempting a C++ implementation as an alternative, encountered <strong>header resolution issues.</strong></li>
