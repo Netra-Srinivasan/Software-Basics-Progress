@@ -100,10 +100,3 @@
 <ul>
   <li>Explored how compilers internally work in compiler-based programming languages such as C, C++ and in Java, involving an intermediate byte code (.class) file.</li>
 </ul>
-
-<h4>3) Computer Architecture & Low-Level Concepts</h4>
-<ul>
-  <li>Explored modules on <strong>Instruction Set Architectures (ISA).</strong></li>
-  <li>Deepened understanding on <strong>ARM vs x86</strong> and <strong>RISC-V</strong> Architecture.</li>
-  <li>Gained foundational insights into <strong>assembly language.</strong></li>
-</ul>
