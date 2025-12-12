@@ -100,3 +100,30 @@
 <ul>
   <li>Explored how compilers internally work in compiler-based programming languages such as C, C++ and in Java, involving an intermediate byte code (.class) file.</li>
 </ul>
+
+<hr>
+
+<h3>Progress Update – 12.12.2025</h3>
+
+<h4>1) SIMD and Vectorization - AVX Intrinsics (Contd.)</h4>
+<ul>
+  <li>Explored SIMD programming concepts in depth, focusing on AVX intrinsics and vectorization fundamentals.</li>
+  <li>Implemented vector addition using <strong>AVX intrinsics</strong>, including benchmarking scalar vs. vectorized execution.</li>
+</ul>
+
+<h4>2) ARM NEON Intrinsics</h4>
+<ul>
+  <li>Worked with <strong>ARM NEON intrinsics (arm_neon.h)</strong> to develop vectorized scripts for performance improvement on ARM-based targets.</li>
+</ul>
+
+<h4>3) MSYS2 Environment Setup</h4>
+<ul>
+  <li>Set up an environment suitable for building and testing SIMD code by configuring MSYS2, GCC, and Makefile support.</li>
+</ul>
+
+<h4>Blocker Faced</h4>
+<ul>
+  <li>Faced issues compiling AVX and NEON intrinsic functions in VS Code due to missing toolchain and environment paths.</li>
+  <li>Encountered errors while preparing and executing the Makefile before MSYS2 setup.</li>
+  <li>Required time to resolve alignment and intrinsic compatibility issues across compilers.</li>
+<hr>
