@@ -1,4 +1,4 @@
-<h2>Progress Update (as of 08.12.2025)</h2>
+<h2>Progress Update (as of 12.12.2025)</h2>
 
 <h3>Progress Update – 05.12.2025</h3>
 
